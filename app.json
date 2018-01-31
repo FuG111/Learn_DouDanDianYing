@@ -1,0 +1,18 @@
+{
+    "pages": [
+        "pages/douban/index",
+        "pages/douban/splash",
+        "pages/douban/item",
+        "pages/douban/list",
+        "pages/douban/search",
+        "pages/index/index",
+        "pages/logs/logs"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#268dcd",
+        "navigationBarTitleText": "豆瓣电影",
+        "navigationBarTextStyle": "white",
+        "enablePullDownRefresh": true
+    }
+}

@@ -1,0 +1,3 @@
+<!--pages/douban/list.wxml-->
+<import src="list_template" />
+<template is="list_template" data="{{movies, total, page}}" />
